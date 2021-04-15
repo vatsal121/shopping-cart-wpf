@@ -1,0 +1,82 @@
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.exe
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.dll.config
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.deps.json
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.runtimeconfig.json
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.runtimeconfig.dev.json
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.pdb
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.csprojAssemblyReference.cache
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\AdminWindow.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\CartWindow.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ChangePasswordWindow.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\LoginWindow.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ProductWindow.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\RegisterWindow.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ShoppingCart.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth_MarkupCompile.cache
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth_MarkupCompile.lref
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\AdminWindow.baml
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\CartWindow.baml
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ChangePasswordWindow.baml
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\LoginWindow.baml
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ProductWindow.baml
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\RegisterWindow.baml
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ShoppingCart.baml
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.g.resources
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.AssemblyInfoInputs.cache
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.AssemblyInfo.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.csproj.CoreCompileInputs.cache
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.csproj.CopyComplete
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.pdb
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.genruntimeconfig.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.exe
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.dll.config
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.deps.json
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.runtimeconfig.json
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.runtimeconfig.dev.json
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.pdb
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.csprojAssemblyReference.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\AdminWindow.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\CartWindow.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ChangePasswordWindow.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\LoginWindow.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ProductWindow.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\RegisterWindow.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ShoppingCart.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth_MarkupCompile.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth_MarkupCompile.lref
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\AdminWindow.baml
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\CartWindow.baml
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ChangePasswordWindow.baml
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\LoginWindow.baml
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ProductWindow.baml
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\RegisterWindow.baml
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\Views\ShoppingCart.baml
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.g.resources
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.AssemblyInfoInputs.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.AssemblyInfo.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.csproj.CoreCompileInputs.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.csproj.CopyComplete
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.pdb
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\ShoppingCartVatsalMeetJankiParth\obj\Debug\netcoreapp3.1\ShoppingCartVatsalMeetJankiParth.genruntimeconfig.cache

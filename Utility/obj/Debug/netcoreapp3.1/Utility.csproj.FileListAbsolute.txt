@@ -1,0 +1,27 @@
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05\Solutions\D05Solution\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+C:\Users\vchauhan\Desktop\D05 - C# WPF\ShoppingCartVatsalMeetJankiParth\Utility\obj\Debug\netcoreapp3.1\Utility.pdb

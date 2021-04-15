@@ -1,0 +1,101 @@
+﻿<Window x:Class="ShoppingCartVatsalMeetJankiParth.Views.CartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShoppingCartVatsalMeetJankiParth.Views"
+        mc:Ignorable="d"
+        Title="Cart Window" Height="384" Width="654" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="Separator">
+            <Setter Property="Width" Value="10"/>
+            <Setter Property="Height" Value="10"/>
+            <Setter Property="Opacity" Value="0"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value="10, 5"/>
+        </Style>
+        <Style TargetType="StackPanel">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <StackPanel Width="609" Height="317">
+        <StackPanel Margin="0,0" Orientation="Horizontal" HorizontalAlignment="Left">
+            <Button x:Name="BackButton"
+                        Content="Back"
+                         Command="{Binding Path=GoBackCommand}" />
+        </StackPanel>
+        <Separator Margin="10"/>
+
+        <DataGrid x:Name="CustomerProductDataGrid"
+                  HorizontalAlignment="Stretch"
+                  AutoGenerateColumns="False"
+                  MinHeight="150" MaxHeight="400"
+                 ItemsSource="{Binding Path=CartList}"
+                  SelectedItem="{Binding Path=SelectedProduct}" 
+                  DockPanel.Dock="Top" Width="588">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name"
+                                    MinWidth="80"
+                                    IsReadOnly="True"
+                                    Binding="{Binding Path=ProductDetails.ProductName,Mode=OneWay}"/>
+                <DataGridTextColumn Header="Category"
+                                    MinWidth="80"
+                                    IsReadOnly="True"
+                                    Binding="{Binding Path=ProductDetails.Category.CategoryName,Mode=OneWay}"/>
+
+                <DataGridTextColumn Header="Description"
+                                    MinWidth="80"
+                                    IsReadOnly="True"
+                                    Binding="{Binding Path=ProductDetails.Description,Mode=OneWay}" />
+
+                <DataGridTextColumn Header="Quantity"
+                                        MinWidth="80"
+                                        Binding="{Binding Path=QtyOrdered}"/>
+
+                <DataGridTextColumn Header="Original Price"
+                                        MinWidth="80"
+                                        IsReadOnly="True"
+                                        Binding="{Binding Path=ProductDetails.Price}"/>
+
+                <DataGridTextColumn Header="Discount Percentage"
+                                        MinWidth="80"
+                                        IsReadOnly="True"
+                                        Binding="{Binding Path=DiscountPercentage}"/>
+
+
+                <DataGridTextColumn Header="Final Price"
+                                        MinWidth="80"
+                                        IsReadOnly="True"
+                                        Binding="{Binding Path=FinalProductPrice}"/>
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Separator/>
+        <StackPanel Orientation="Horizontal" >
+            <Label Content="{Binding Path = CartTotal, FallbackValue=CartTotal, UpdateSourceTrigger=PropertyChanged}" />
+
+
+        </StackPanel>
+        <Separator />
+        <StackPanel Orientation="Horizontal">
+
+            <Button x:Name="RemoveCartButton"
+                        Content="Remove from cart"
+                        Command="{Binding Path=RemoveCartCommand}"/>
+            <Separator/>
+            <Button x:Name="EmptyCartButton"
+            Content="Empty cart"
+                        Command="{Binding Path=EmptyCartCommand}"/>
+            <Separator/>
+            <Button x:Name="CheckoutButton"
+            Content="Checkout"
+                        Command="{Binding Path=CheckoutCommand}"/>
+
+
+        </StackPanel>
+    </StackPanel>
+</Window>
